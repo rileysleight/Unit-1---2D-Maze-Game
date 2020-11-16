@@ -15,8 +15,6 @@ ScriptsOnlyBuild:
     - Cinemachine.CinemachineVirtualCamera
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
-    Unity.2D.SpriteShape.Editor.dll:
-    - UnityEditor.U2D.SpriteShapeEditorAnalytics
     Unity.2D.SpriteShape.Runtime.dll:
     - UnityEngine.U2D.SpriteShapeController
     Unity.2D.Tilemap.Editor.dll:
@@ -26,7 +24,6 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
-    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.PaintableSceneViewGrid
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
@@ -117,7 +114,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 15332}
     - Class: 114
-      Script: {instanceID: 15940}
+      Script: {instanceID: 15956}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -962,4 +959,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/College/UNIT 1 - MAZE GAME/Unit 1 - Maze Game.exe
+  playerPath: H:/College/UNITY/Unit 1 - Final Build/Unit 1 - Maze Game.exe

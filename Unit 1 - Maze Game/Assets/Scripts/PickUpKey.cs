@@ -25,3 +25,19 @@ public class PickUpKey : MonoBehaviour
         }
     }
 }
+
+/* void on trigger
+    {
+        if (other tag is skeleton)
+            {
+                if (player tag = pplayer)
+                {
+                    destory player
+                }
+                if (player taG = PlayerSkull)
+                {
+                    destroy skeleton
+                }
+            }
+    }
+    */
